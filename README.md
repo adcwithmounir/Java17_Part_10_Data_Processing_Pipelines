@@ -37,7 +37,7 @@ All examples are built around the same **streaming-platform project** as the pre
 
 | # | Folder | Video topic | What you'll learn | Status |
 |:-:|---|---|---|:-:|
-| 1 | `Part_10_1_Data_Processing_Pipelines` | **Saying no result safely with Optional** | Why not `null`, `Optional.empty`, `of`, `ofNullable`, `get`, `isPresent`, `ifPresent`, `orElse`, `orElseGet`, `orElseThrow` | 🔜 |
+| 1 | `Part_10_1_Data_Processing_Pipelines` | **Saying no result safely with Optional** | Why not `null`, `Optional.empty`, `of`, `ofNullable`, `get`, `isPresent`, `ifPresent`, `orElse`, `orElseGet`, `orElseThrow` | ✅ |
 | 2 | `Part_10_2_Data_Processing_Pipelines` | **Using streams** | Stream pipelines: sources, intermediate and terminal operations | 🔜 |
 | 3 | `Part_10_3_Data_Processing_Pipelines` | **Working with primitive streams** | `IntStream`, `LongStream`, `DoubleStream` and their statistics | 🔜 |
 | 4 | `Part_10_4_Data_Processing_Pipelines` | **Advanced stream pipelines** | Collectors, grouping, partitioning and parallel streams | 🔜 |
